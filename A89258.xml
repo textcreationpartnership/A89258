@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A leaf pull'd from the tree of life: medicinall for the healing of Englands divisions. Or, A glimpse of the excellency of a kingly government. Proving it to be 1. Most Godly. 2. Most Christianlike. 3. Most ancient. 4. Most safe for the people. Written out of love and good will to the peace and tranquility of the three nations, of England, Scotland, and Ireland. By John Moore.</title>
+            <author>Moore, John, of Wechicombe, near Dunster, Somerset.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89258</idno>
+            <idno type="STC">Wing M2560</idno>
+            <idno type="STC">Thomason E1026_7</idno>
+            <idno type="STC">ESTC R208755</idno>
+            <idno type="EEBO-CITATION">99867677</idno>
+            <idno type="PROQUEST">99867677</idno>
+            <idno type="VID">168870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168870)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1026[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A leaf pull'd from the tree of life: medicinall for the healing of Englands divisions. Or, A glimpse of the excellency of a kingly government. Proving it to be 1. Most Godly. 2. Most Christianlike. 3. Most ancient. 4. Most safe for the people. Written out of love and good will to the peace and tranquility of the three nations, of England, Scotland, and Ireland. By John Moore.</title>
+                  <author>Moore, John, of Wechicombe, near Dunster, Somerset.</author>
+               </titleStmt>
+               <extent>[8], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Brewster at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168870:1" rendition="simple:additions"/>
+            <p> A LEAF Pull'd from the Tree Of Life: Medicinall for the healing of <hi>Englands</hi> DIVISIONS.</p>
+            <p>Or, A Glimpſe of the Excellency of a Kingly GOVERNMENT.</p>
+            <list>
+               <head>Proving it to be</head>
+               <item>1. <hi>Moſt Godly.</hi>
+               </item>
+               <item>2. <hi>Moſt Chriſtianlike.</hi>
+               </item>
+               <item>3. <hi>Moſt Ancient.</hi>
+               </item>
+               <item>4. <hi>Moſt Safe for the People.</hi>
+               </item>
+            </list>
+            <p>Written out of Love and Good Will to the peace and tranquility of the three Nations, of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>JOHN MOORE.</hi>
+            </p>
+            <p>Surely your turning of things upſide down ſhall be eſteemed as the Potters Clay—</p>
+            <q>For I am the Lord, I change not.—</q>
+            <q>Let <hi>England</hi> then take heed of endeavouring to change the mutable decrees, and Counſells of God—</q>
+            <q>And whether it be more lawfull for the Rulers of the Land to follow the Counſells of God, or the wills of a giddy-headed people. Let them conſider—</q>
+            <q>They have rejected the Word of the Lord, and what wiſedom is in them—</q>
+            <q>Ceaſe ye from man, whoſe breath is in his Noſtrills, for wherein is he to be accoun<g ref="char:EOLhyphen"/>ted of—</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Brewſter</hi> at the Crane in <hi>Pauls</hi> Church-yard, 1660.</p>
+            <pb facs="tcp:168870:2"/>
+         </div>
+         <div type="the_author_to_Jesus">
+            <pb facs="tcp:168870:2"/>
+            <head>
+               <hi>To the true and faithfull</hi> Philanthopos <hi>Jeſus Chriſt, God and man</hi>: <hi>his poor unworthy ſervant proſtrates himſelfe; begs par<g ref="char:EOLhyphen"/>don for his ſins, and prayeth for a bleſſing upon the Councills of the King and Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty Prince, to whom all power in Heaven &amp; earth is given, whoſe only prerogative it is, to be King of Kings; and Lord of Lords: who haſt a name given thee, which is above every name, to which all things in heaven and earth owe obeiſance, and the bowing of the knee, without whom the ſons of men can do nothing but that which brings ſhame and confuſion to themſelves: Pardon and forgive me all my ſins and tranſgreſſions which I have committed from my child-hood againſt heaven, and in thy ſight. Be gracious and mercifull to this ſinfull Nation wherein I dwell, by giving a bleſſing to thoſe that are appointed by the hand and providence to ſettle our peace, and establiſh our Laws. Thy name is wonderful, Counſellor. O, exalt this name of thine amongſt them; do thou ſo guide them with thy counſells, that they may do wonderfull things whereof the people may rejoyce. Thy name is the mighty God, exalt this name of thine amongſt them, by putting courage into their hearts, and Loyalty into their ſouls; that they may en<g ref="char:EOLhyphen"/>deavour the eſtabliſhment of, and conform them even <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch a Government, which moſt reſembles thy divine Majeſty, that gives thee thy own Title of King of Kings<g ref="char:punc">▪</g> and Lord of Lords, that hath thine own <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:168870:3"/> its branches ſpringing out from thee. Thy name is the everlasting Father. O! do thou beget godly purpoſes, and ſelf-denying practiſes amongſt them. Let them bring forth ſuch Acts of righteouſneſs to the people that may be own'd and patroniz'd by ſuch a Father: thy name is the Prince of Peace, O, make thy ſelf known to them in this name alſo, that they may ſtudy peace, delight in peace, rejoyce in peace, ſeek nothing more then peace, and in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his, Lord give them ſuch a proſperous, and an advanta<g ref="char:EOLhyphen"/>gious iſſue, that they may deſervedly be called <hi>England</hi>'s bleſſed peace-makers. Let thy name O Lord be thus hal<g ref="char:EOLhyphen"/>lowed in the midſt of them, that theremay be a ſubmisſive preparation for the coming of thy Kingdom, that they may do thy will on Earth, after the ſame manner as it is done in heaven. Let them be ſo far from coveting o<g ref="char:EOLhyphen"/>ther mens goods, and making a prey upon other mens E<g ref="char:EOLhyphen"/>states, that they may be content with their daily bread; forgive all their imperfections, and give them hearts to forgive ſubmisſive offenders. Keep them from falling into the temptations of Satan, and the ſnares of the world. Deliver and protect them from all evill, and harm intended againſt them, by men or Devills, for the King<g ref="char:EOLhyphen"/>dom, power, and Glory of all this belongs wholly to thy ſelf from henceforth and for evermore.</p>
+            <closer>Amen, Lord Jeſus.</closer>
+            <closer>Even ſo Amen.</closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168870:3"/>
+            <head>
+               <hi>To the moſt Chriſtian Prince on Earth,</hi> Charles <hi>the Second, by the Grace of God, King of Great Britain,</hi> France, <hi>and</hi> Ireland, <hi>Defen<g ref="char:EOLhyphen"/>der of the truly Ancient, Catholik, and Apoſtolick Faith.</hi>
+            </head>
+            <opener>
+               <salute>Dread Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I firſt penn'd the enſuing lines, it was in the later end of the month <hi>February,</hi> and the begin<g ref="char:EOLhyphen"/>ning of <hi>March,</hi> 1659. at which time I intended the Dedication of them to <hi>Englands</hi> happy Parli<g ref="char:EOLhyphen"/>ament, (now ſitting at <hi>Westminster</hi> by your Royall Autho<g ref="char:EOLhyphen"/>rity) and ſince by reaſon of my own remoteneſs from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> accompanied with a neceſſity of attending my Mini<g ref="char:EOLhyphen"/>ſtry) they could not come forth in print by the time I in<g ref="char:EOLhyphen"/>tended, <hi>(viz.)</hi> at the firſt ſitting of the Parliament; the de<g ref="char:EOLhyphen"/>crees of heaven having been ſince executed for your ſafe re<g ref="char:EOLhyphen"/>turn to your native Birth-right, the Crown of <hi>England:</hi> I was neceſſitated to retract the Dedication of them to the Parliament, and being unwilling that thoſe things ſhould dye in the Birth, which had gone ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their full time in the womb of my heart and hand, (the publiſhing of them be<g ref="char:EOLhyphen"/>ing earneſtly deſir'd by many of your faithfull ſubjects) I did reſolve to midwive them into the world; by adventu<g ref="char:EOLhyphen"/>ring upon your Princely Clemency to proſtrate them at the feet of your Royal protection, hoping they wil find that fa<g ref="char:EOLhyphen"/>vour at Court, as to have admittance to kiſs your gracious hand. I ſhal not trouble your Majeſty with a tedious Epiſtle, leſt the Gate ſhould be bigger then the City. Only let me beg this liberty, to ſeal this my bold attempt with my prayers to the moſt high; that he would ever vouchſafe to bleſs you, in your Royal perſon with length of days, health, and ſafety in your ſpirit, with the comfort and councills of his own in your heart and ſoul with meekneſs, truth, and righteouſ<g ref="char:EOLhyphen"/>neſs<hi>:</hi>
+               <pb facs="tcp:168870:4"/> In your Royall relations with oneneſs of hearty lov and unity of Faith; in your Privy Councill, with wiſedom and fidelity. In your Parliament with ſpeciall care to your ſafety and honour. In your Nobles with Loyall affection. In your Magiſtrates, with uprightneſs and juſtice. In your Miniſters with ſoundneſs of Doctrine, good Diſcipline, and Piety of life. And in all your Subjects from the higheſt to the loweſt, with unfeignedneſs of heart rendring to their King what they owe unto him, both by the Law of God and the Laws of the Nation. Yea, whoſoever of us will not o<g ref="char:EOLhyphen"/>bey the Law of our God, and the Law of our lawfull King, Let judgement be executed upon; whether it be unto death, or unto baniſhment, or to confiſcation of goods, or to im<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſonment, from either of which rebellions, the Lord keep the very thoughts of him, whoſe heart rejoyceth at the E<g ref="char:EOLhyphen"/>ſtabliſhment of your Kingly Throne. To which, in life, or death, I am reſolv'd to be</p>
+            <closer>
+               <signed>A ſervant faithfully devoted John Moore.</signed>
+               <dateline>
+                  <hi>From my ſtudy at</hi> Wechicombe <hi>near</hi> Dunſter <hi>in</hi> Somerſet, <date>
+                     <hi>June</hi> 25, 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168870:4"/>
+            <head>To the Impartial, Moderate, Self-Denying READER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HO ever, or of what ſtate ſoever thou art, if thy conſcience be not ſear'd with the hot Iron of rage and fury againſt thy own fleſh, thy brethren the ſons of <hi>Adam;</hi> if thy heart be not full of burning coals of anger and re<g ref="char:EOLhyphen"/>venge? if thy judgment be not blinded with Selfe-Intereſt? if the edge of thy affections and deſires to peace, be not blunted with delight in War? if thy will be any way inclin'd to beat thy ſword into a plough ſhare, and thy ſpear into a pruning hook? if thy hand be not glew'd to the gain of oppreſſion? if in the School of Chriſt thou haſt learnt any thing of ſelf-denyall? if thou doſt ingeniouſly confeſs and owne the ſacred Scriptures to be the only ground of Faith and rule of a Chriſtians life; and that they are reall teſtimonies of truth? I doubt not but that the enſuing lines wil find acceptation with thee, being written only out of love and good will to the generall peace and welfare of my Country. For my part I do confeſs that in the beginning of the late war, my judgement did lead me forth to own the Parliaments proceedings both in relation to the extirpation of Popery, and alſo to the reducing of the Kings perſon from amongſt ſome evill Counſellers, who were then thought to animate him a<g ref="char:EOLhyphen"/>gainſt the Parliament, but never with the leaſt intent, either to destroy his perſon, or race out a Kingly Government; nor was there any ſuch intent in the Parliament then (as could be appre<g ref="char:EOLhyphen"/>hended by any, having taken a ſolemn Covenant to the contrary) untill their diviſions unhappily began: and a Tyrannicall En<g ref="char:EOLhyphen"/>gagement forc'd upon the people, under pain of being ruined, in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they refuſed it: a thouſand times better it is for <hi>England</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> religious Covenant be revived and put in force, then an <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Engagement violently forc't upon the peoples conſciences
+<pb facs="tcp:168870:5"/> perpetuated. If any one ask, what ſhall they do then that have taken the Engagement? why let them take it off the File of their hearts, acknowledge their errour, and be ſorry for it; for my own part I am clearly of this mind, that God is as much honoured, and it ſavours as much of an ingenious Spirit, to confeſs an errour, as to profeſs a truth. My advice therefore to the ſervants of God, and to all the inhabitants of the three Nations ſhall be this: cheer<g ref="char:EOLhyphen"/>fully, &amp; heartily to ſubmit to that form of Government, which was by God ordeined of old, and ſetled in heaven by an everlaſting de<g ref="char:EOLhyphen"/>cree; the onely viſible means to keep us from deſtroying one ano<g ref="char:EOLhyphen"/>ther, to reſtore us to peace, and heal our breaches. I have called this ſmall Tract, <hi>A Leafe pull'd from the Tree of Life,</hi> becauſe it is gathered from amongſt the Laws and Ordinances of Jeſus Chriſt, the <hi>Alpha</hi> and <hi>Omega</hi> of all Rule and Government in the world, the faithfull counſellor in heaven and earth, and the chief commander thereof; to the reading whereof without premeditated prejudice, I commend thee, and take my leave with this aſſurance, that I intended nothing therein but a Declaration of my faithfull love to <hi>Englands</hi> peace, and therein I hope to abide</p>
+            <closer>
+               <signed>
+                  <hi>A ſervant faithfully devoted,</hi> JOHN MOORE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168870:5"/>
+            <head>A Glimpſe of the Excellency of a Kingly GOVERNMENT.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>That it is moſt Godly.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He great and mighty God, the holy, juſt, and wiſe God, who made and formed all things by the pow<g ref="char:EOLhyphen"/>er of his Word, and guideth and governeth all things by his Word of Providence; did in the beginning ſettle and place all things in good or<g ref="char:EOLhyphen"/>der and equipage in every ſphere of his Dominion, both in the heavens above, and in the earth beneath; wherein all his crea<g ref="char:EOLhyphen"/>tures (ſinfull man and Apoſtate Angells excepted) have kept the ſame order wherein their Creator at firſt had ſet them in the firmament of Heaven, thoſe coeleſtial bodies keep their conſtant courſe: the Moon and Starrs obſerve the motions of the Sun; whom God hath ſeated there as chief amongſt them, who alſo knoweth his going down, and thoſe other inferiour bodies do obſerve his ſetting, and upriſing; as it were acknowledging his ſuperiority over them. Thus the Heavens declare the glory of God and the Firmament ſheweth what his hand hath made; ob<g ref="char:EOLhyphen"/>ſerving
+<pb n="2" facs="tcp:168870:6"/> therein their Makers will. Next the Fowls of the air are ſubordinate to the Eagles as Supream; the Beaſts of the earth have a Lion, whom they acknowledge their Head Governour; which made the Prophet thus write, <hi>When the Lion roars, all the beaſts of the Forrest tremble:</hi> Under the earth, in the waters of the Sea, the Fiſhes have their <hi>Leviathan;</hi> concerning which creature tis obſervable, that he hath ſolely or chiefly but two enemies, the <hi>Sword-Fiſh</hi> and the <hi>Threſher,</hi> the reſt giving place to the greatneſs that his Creator hath given him; and who are they at this day, that are the chiefeſt enemies to the Supream Government of a ſingle perſon, but the Souldier who lives by his Sword, and the factious Sectary with his Threſhing, Level<g ref="char:EOLhyphen"/>ling principles. By the forementioned things we may clearly ſee, that in heaven above, in the earth beneath, and in the waters under the earth, there is an obſervation of Soveraignty to one in chief; neither do they alter or change it, but continue in it, only mans heart being corrupted with the diſloyal princi<g ref="char:EOLhyphen"/>ples of the fallen Angels (who for refuſing to own Chriſt for their Supreame Head, were caſt down headlong from Heaven to Hell) will ſcarcely owne any Order, but ſuch as proceeds from their own diſorders; nor own any ſu<g ref="char:EOLhyphen"/>pream Government, but that which makes every one a Go<g ref="char:EOLhyphen"/>vernour.</p>
+               <p>The conſideration of this makes me call to mind a worthy ſay<g ref="char:EOLhyphen"/>ing of the Aldermen and Members of the Common Council, in the time of their impriſonment in the Tower of <hi>London,</hi> written in their Declaration and Remonſtrance from thence: the words are theſe, <hi>And ſeeing with too tranſparent eyes, both Nature and Religion turned Antipodes, acting themſelves into a ſelf-Antipathy, as if man above all ſublu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ary creatures was on<g ref="char:EOLhyphen"/>ly compound of all contrarieti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s; ſeeing the foundation (on which next under heaven our hopes depend) of our Laws, our Religion, our proper Rights and Priviledges (we ſay not Oaths and Pro<g ref="char:EOLhyphen"/>testations) blown up by the very roots, by ſuch a ſtrong tempe<g ref="char:EOLhyphen"/>ſtuons violence, which beats down all things before it, making the leftieſt Cedar level with the loweſt ſhrubs until it hath vented it ſelf into an univerſal deſtruction.</hi>
+               </p>
+               <p>Of the truth of this ſad Clauſe of their Declaration, wofull
+<pb n="3" facs="tcp:168870:6"/> experience hath been the ſole School-Miſtreſs in <hi>England;</hi> for by reaſon of Oaths, Proteſtations, Covenants, and Engage<g ref="char:EOLhyphen"/>ments, and the violent forcible breach of them doth the land mourn; and whileſt the Lord hath looked for, and expected Ju<g ref="char:EOLhyphen"/>ſtice, behold oppreſſion; and for righteouſneſs, but behold a ge<g ref="char:EOLhyphen"/>neral cry and complaint of the poor and needy, the ſtranger, widows, orphans, and fatherleſs; ſo that except the Lord do put it into the hearts of ſome faithfull, godly, ſelf-denying per<g ref="char:EOLhyphen"/>ſons, to put in practiſe a ſpeedy remedie for the healing of the Land of theſe and other ſuch foul enormities, hateful to God and deſtructive to Mankinde; we may juſtly fear that he will ſay, Shall not my ſoul be avenged on ſuch a Nation and People as this, who think to eſtabliſh Religion with blood, and tye the ſtakes of Government together with cords of iniquity, whoſe lips have ſpoken lies, and their tongues have uttered perverſ<g ref="char:EOLhyphen"/>neſs, wherein few or none call for Juſtice, and ſcarcely any plead for truth; where the Cockatrice Eggs are hatcht; and the Spiders Web woven, and in whoſe hands is nothing elſe but the act of violence, where their feet run to evil, making haſte to ſhed innocent blood; whoſe paths are full of waſting and de<g ref="char:EOLhyphen"/>ſtruction, where they faſt for ſtrife and debate, where they do not looſe the bands of wickedneſs, nor undo the heavy bur<g ref="char:EOLhyphen"/>thens, nor let the oppreſſed go free; nor break any yoke; where none ſeek for peace, neither will they be acquainted with the ways thereof: Where they are ſeeking them out new ways, as if they intended to ſerve a ſtrange God: where judgement ſs turn<g ref="char:EOLhyphen"/>ed away backward, and juſtice ſtandeth a far off: Where truth is fallen in the ſtreet, and equity cannot enter: Where they grinde the faces of the poor, and ſell the needy for a pair of ſhoes: Where the people have uſed oppreſſion, and exerciſed Robbery by a Law: Where the ſins of <hi>Sodom</hi> are rife; for this was the ſin of <hi>Sodom,</hi> Pride, Fulneſs of bread, and abundance of Idleneſs was found in her; neither did ſhe ſtrengthen the hand of the poor and needy: Where the Governours prize their own Ordinances above the Ordinances of God, and the Subjects thrreof more afraid to violate the former, then pro<g ref="char:EOLhyphen"/>fane the latter. Ah ſinfull Nation! laden with ſuch iniqui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies as theſe, the head whereof is ſick, and the heart thereof faint,
+<pb n="4" facs="tcp:168870:7"/> and from the ſole of the foot, even to the head, there is little or no ſoundneſs or ſolidity in it, but ful of wounds and bruiſes, and putrifying ſores of diviſion, which to this day are not yet cloſed with the balm of Repentance, and returning to God, nor bound up with the white Fillet of peace, nor mollified with the pretious men<g ref="char:punc">▪</g> of unfained love.</p>
+               <p>This, even this is <hi>Englands</hi> ſtate; but what is the reaſon that we are ſo full of diviſions? that the heart of <hi>England</hi> pants and beats, and is ſo out of frame and order, ſo diſquieted with<g ref="char:EOLhyphen"/>in her ſelf, is it hence, becauſe the foundation of government is out of courſe? and if ſuch foundations be deſtroyed or be out of courſe? What can even the righteous themſelves do? but ſit down by the waters of confuſion and weep; or elſe conſider whether there be not a way for them to return to ſuch a founda<g ref="char:EOLhyphen"/>tion of government, which may be inſtrumentall for their deli<g ref="char:EOLhyphen"/>verance from confuſion, the healing of their deviſions, the ob<g ref="char:EOLhyphen"/>taining of their peace, without which we ſhall never reap the true benefit of any mercy, which made the Poet excellently ſing forth this Verſe.</p>
+               <q>
+                  <l>Sit pax cum lignis,</l>
+                  <l>Si vis ut a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>diat ignis.</l>
+               </q>
+               <q>
+                  <l>Let peace blow thy fire,</l>
+                  <l>If warmth thou de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire.</l>
+               </q>
+               <p>But then the Queſtion will be, what that Foundation of go<g ref="char:EOLhyphen"/>verment is, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is moſt likely to effect it; why truely the que<g ref="char:EOLhyphen"/>ſtion is ſoon anſwered, and 'tis this, that government which hath it's foundation in the holy Scriptures to which the Patriarchs, Prophets and Apoſtles have ſubmitted, to the law and to the Te<g ref="char:EOLhyphen"/>ſtiomony, for whatſoever is not according to that word is full of darkneſſe and confuſion. I once heard a godly and a reverend Di<g ref="char:EOLhyphen"/>vine, (Mr. <hi>Newton</hi> of <hi>Taunton)</hi> deliver this doctrine in the P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lpit; that the Scripture God is our God, and in this caſe anſwerable to that I ſay, let the Scripture government, be our government; for if the Scripture be the only and ſufficient ground of Faith, and rule of life for the eternall peace and wel<g ref="char:EOLhyphen"/>fare
+<pb n="5" facs="tcp:168870:7"/> of the ſoul; there is certainly a ſufficiency in it for the ground and rule of government pertaining to the body, ſo that we need not go beyond the Scriptures to look us out a new form of government, or new Titles for governors, except we are wil<g ref="char:EOLhyphen"/>ling to continue war in our gates, the Scripture ſaith, that when the people choſe them new Gods (which I underſtand by the context of the words to be governours, who in Scripture are called Gods) then was warre in their gates; even of civill warrs and bloody diviſions. Now this is as clear as the Sun at noon<g ref="char:EOLhyphen"/>day <note place="margin">
+                     <hi>Jud.</hi> 5.7, 8</note> to every ſober-minded Chriſtian, that is not drunk with ſelf-Intereſt, not overcome with a ſpirit of Giddineſſe, that the foundation of goverment, which is commended to us by God in the Scripture, did, and was to reſt and reſide in a ſingle perſon, known by the Names or Titles of Kings and Judges: and to contradict the perpetuation of it (untill Chriſt himſelf come) there is not one line in the whole Bible as I remember, and I believe I have read the Bible over threeſcore times; and as the Apoſtle ſaith, that he that keeps the whole Law and failsin one point, is guilty of all, ſo if wee own the Scripture as the ground of faith, and rule of life in ſome things, and renounce it in other, having no command for it) we muſt unavoidably be guilty of ſliting the whole, for the Scripture was not given in old time by will of man, nor is it to be altered or chang'd by mans will, nor any thing to be added to it, or taken from it, upon pain, that every one that ſhall ſo do, ſhall have his name blotted out of the Book of Life, and for an addition, all the plagues that are written in the ſame book inflicted on him; if ever we would then enjoy our peace, our lives, libereties and eſtates, our wives and children with tranquility, joy and comfort, it muſt be by a chearfull ſubmiſſion to ſuch a foundation of government, which God in his wiſdome hath appointed, and thought meet for us, and made obvious to our eye in his ſacred records; let then the exhortation <note place="margin">
+                     <hi>Jer.</hi> 6. 16.</note> which the Prophet <hi>Jeremiah</hi> hath ſpoken to us in the name of the Lord be acceptable to us. <hi>Who bids us to ſtand in the ways, and ſee, and ask for the old paths, where is the good way, and walk therein, and we ſhall find reſt for our ſouls<g ref="char:punc">▪</g>
+                  </hi> Let us conſider and ex<g ref="char:EOLhyphen"/>amine, whether it be not better (though we ſhould be looſers
+<pb n="6" facs="tcp:168870:8"/> by it to imitate the ſervants of God of old, and walke in their ſteps &amp; paths, then for our own ends to dance after the pipe of the covetous, drunken, ſwiniſh, ſlovenly Dutch, and the luſtfull, a<g ref="char:EOLhyphen"/>dulterous <hi>Venetian;</hi> where under the government of the one all manner of intollerable blaſphemies are tollerated, and under the dominion of the other, moſt abominable beaſtlineſſe counte<g ref="char:EOLhyphen"/>nanc't; yea rather let us ſet our eyes to behold, have our ears of<g ref="char:EOLhyphen"/>ten to hearken to, our minds bent to contemplate, our hearts to ponder, our lips to ſpeak of, our hands to lay hold of, and our feet to tread in the paths of ſuch a goverment, which hath theſe properties attending it. Firſt, moſt Godly, Secondly, moſt Chriſtianlike, Thirdly, moſt antient, Fourthly, moſt ſafe for the people. Now the govenrment of a ſingle perſon is moſt godly for theſe reaſons following.</p>
+               <p>Firſt, becauſe it was brought forth in time, and eſtabliſht in the Nations, according to the eternall purpoſe, and determi<g ref="char:EOLhyphen"/>nate counſell of God; who worheth all his works, and bringeth to paſſe all his actions after the councill of his own will, and not after the counſell of any other, neither of Saints nor Angells. Shall mortall man be more juſt then God, and ſhall man be more pure then his Maker? behold he put no truſt in his ſervants, and his Angells he charged with folly: how much leſſe on them that dwell in houſes of clay, whoſe foundation is in the duſt, which are cruſhed before the Moth? they are deſtroyed from morning to evening: they periſh for ever without any regarding it: doth not their excellency which is in them go away, they dye, even without wiſdome; where is he than that can direct the ſpirit of Lord? or being his Counſellor, can teach him: with whom took he counſell, and who inſtructed him, when he divided to the Nations their inheritance, when he ſeparated the ſons of <hi>Adam,</hi> and ſet the bounds of the people according to the number of the children of <hi>Iſrael?</hi> when he eſtabliſht a Judge for a governor o<g ref="char:EOLhyphen"/>ver the ſons of <hi>Jacob?</hi> and placed Kings, to rule over the Na<g ref="char:EOLhyphen"/>tions of the Gentiles? did not the Lord eſtabliſh theſe things by a Law and a decree, more unchangable then the Laws of the <hi>Medes</hi> and <hi>Perſians,</hi> which alter not? is not the Lord perfect in his counſells? yea is not the Lord righteous in his ways, and holy in all his workes? hath the Lord any where revealed or de<g ref="char:EOLhyphen"/>clared
+<pb n="7" facs="tcp:168870:8"/> in his Word, that he would alter his Counſels, or fru<g ref="char:EOLhyphen"/>ſtrate his own Laws and Ordinances concerning the Govern<g ref="char:EOLhyphen"/>ment that he had ſubjected the people to? Where is that Coun<g ref="char:EOLhyphen"/>ſellor, that can enlarge the counſel of the moſt High? Or give a clearer ſenſe and a fuller underſtanding of his Laws, Statutes, Ordinances and Judgements, then he himſelf hath given by his Holy Spirit, the true Interpreter of his minde? If not, then <hi>Wo be to him that ſtriveth with his Maker:</hi> Let the Potſheard ſtrive with the Potſheards of the earth, and not with the Al<g ref="char:EOLhyphen"/>mighty; for ſurely there is no Counſel againſt him ſhall ſtand; their turning of things upſide down ſhall be eſteemed as the Potters clay: And that Form of Government that iſſued forth from God, and hath its foundation in God, ſhall be eſtabliſht in the earth; for it is moſt godly, and it ſhall continue till Chriſt himſelf ſhall come,</p>
+               <q>
+                  <l>
+                     <hi>The</hi> Alpha <hi>of all Kings by Gods decree,</hi>
+                  </l>
+                  <l>
+                     <hi>And the</hi> Omega <hi>of all Kings muſt be.</hi>
+                  </l>
+               </q>
+               <p>A ſecond reaſon to prove it moſt godly is, becauſe it carries the Image of Gods eſſence with it, who in, and of himſelf is one, the Lord <hi>Jehovah</hi> is One, and in heaven (the place of his glorious reſidence) there being no diviſion, God hath given the Regiment and Government unto one Perſon, even to his Son; ſo that in Heaven it ſelf, where nothing but holineſs and godlineſs is practiſed, is the Government of a ſingle Perſon eſtabliſht: <hi>The Father loveth the Son,</hi> ſaith <hi>John,</hi> chap. 3.25. <hi>and hath gi<g ref="char:EOLhyphen"/>ven all things into his hand:</hi> and Chriſt himſelf ſaith, <hi>That all power in heaven and in earth was given to him:</hi> And elſewhere, the Holy Ghoſt ſaith, <hi>That God hath given to him a name which is above every name:</hi> Can we then write after a more godly pat<g ref="char:EOLhyphen"/>tern of Government then is already written in Heaven by Gods right-hand. All the Laws, Ordinances, and Statutes that <hi>Moſes</hi> delivered to the children of <hi>Iſrael,</hi> he was commanded to make them all, after the Pattern that was ſhewed him in the Mount, where he was with the Lord forty days and forty nights for advice and counſel, how to ordet and eſtabliſh all things both in Church and State, in the performance whereof he was
+<pb n="8" facs="tcp:168870:9"/> faithfull to his truſt; ſo then that which hath a heavenly and a holy face, cannot have an ungodly viſage: I would here be underſtood, not to mean corrupt perſons in the Government, but the Government it ſelf: For it is obvious to every eye, that corrupt wicked perſons may bear rule in that form of Govern<g ref="char:EOLhyphen"/>ment, which in it ſelf is truly godly, being inſtituted by God himſelf, as in the time of the Law in the Office of the Prieſt<g ref="char:EOLhyphen"/>hood, and under the Goſpel in that pure and holy Office of A<g ref="char:EOLhyphen"/>poſtleſhip; yet the Function and Calling remained ſtill a foun<g ref="char:EOLhyphen"/>dation of Godlineſs, whereof Chriſt himſelf was the chief cor<g ref="char:EOLhyphen"/>ner Stone.</p>
+               <p>So that although there be a juſt and lawfull ground for perſons to ſpeak againſt, reprove, and oppoſe wickedneſs and tyrannie in Governours, yet they have no juſt and lawfull ground to lay hands upon, and deſtroy the Government it ſelf. For al<g ref="char:EOLhyphen"/>though it be granted, that Kings, Princes, and Judges, may ſell themſelves to work wickedneſs, exerciſe Tyrannie, and live ungodly; yet it is certain they did not derive it from the Go<g ref="char:EOLhyphen"/>vernment it ſelf, nor doth it countenance them in any ſuch thing: for if corruption in Governours be any way a lawfull ground to race out the Form of a lawfull Government, there is never any Government likely to be eſtabliſht in the earth, that any of the ſons of the firſt <hi>Adam</hi> ſhall have the managing of; for by this means a gap will be open'd and a way made for the violent breaking down of All Earthly Government, if once the people apprehend themſelves to have any power, or can gather themſelves together, to make the leaſt reſiſtance: A thing which Chriſt himſelf would never do, although he had <hi>all power in hea<g ref="char:EOLhyphen"/>ven and earth given to him;</hi> nor hath he left the leaſt precept, or the leaſt branch of a Command, to any that believe on him, or profeſs his Name, to do any ſuch thing; but hath left them in ſubjection and conformity to that ſtate of Government which was then in the earth, when he himſelf was in Perſon up<g ref="char:EOLhyphen"/>on the earth, and to continue till he come again in Perſon. So that,</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="9" facs="tcp:168870:9"/>
+               <head>CHAP. II. <hi>The Government of a King is most Chri<g ref="char:EOLhyphen"/>ſtian-like.</hi>
+               </head>
+               <p>FIrſt, It is moſt agreeable to, and ſuitable with his own Pra<g ref="char:EOLhyphen"/>ctice, as he was the Son of Man, in the time of his reſi<g ref="char:EOLhyphen"/>dence and abode upon earth: Two examples there are extant in the writings of the Evangeliſts, wherein Chriſt owns a Kingly Government, the firſt in <hi>Matth.</hi> 17.24. <hi>And when they were come to</hi> Capernaum, <hi>they that received Tribute-money came to</hi> Peter, <hi>and ſaid, Doth not your Maſter pay Tribute? He ſaith, Yes, And when he was come into the Houſe, Jeſus prevented him, ſaying, What thinkeſt thou,</hi> Simon? <hi>Of whom do the Kings of the earth take Cuſtom or Tribute? of their own children or of ſtrangers?</hi> Peter <hi>ſaith unto him, Of Strangees: Jeſus ſaith unto him, Then are the children free: Notwithſtanding, leaſt we ſhould offend them, Go thou to the Sea, and caſt an hook, and take up the fiſh that firſt cometh, and when thou haſt opened his mouth thou ſhalt finde a piece of money<g ref="char:punc">▪</g> That take and give unto them for me and thee.</hi> Wherein three things are chiefly noted: 1. A queſtion of the Kings Servants to <hi>Peter,</hi> whether his Ma<g ref="char:EOLhyphen"/>ſter did pay Tribute; or in effect, whether he did conform him<g ref="char:EOLhyphen"/>ſelf to, and own the Kingly Government then in <hi>Judea:</hi> 2. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> ſudden anſwer that he did, he ſaith, <hi>Yes.</hi> 3. Chriſt juſti<g ref="char:EOLhyphen"/>fying <hi>Peters</hi> anſwer for truth, and making it good by action; wherein he was ſo far from diſowning the Government it ſelf, or from giving offence to the Miniſters thereof, or diſputing their Authority, that he ſet his Divine power on work, and wrought a miracle for a teſtimony of it.</p>
+               <p>The ſecond is in <hi>Matth.</hi> 22. from <hi>ver.</hi> 15. to <hi>ver.</hi> 22. where to the queſtion of the <hi>Phariſees</hi> and <hi>Herodians,</hi> who would glad<g ref="char:EOLhyphen"/>ly have heard him ſpeak the leaſt word againſt <hi>Herods</hi> Kingly Power, urging him to declare his diſ-affection and non-appro<g ref="char:EOLhyphen"/>bation of the Government, he returns an anſwer conſonantly
+<pb n="10" facs="tcp:168870:10"/> to his former action, in theſe words, <hi>Give unto Caeſar the things that are Caeſars, and unto God the things that are Gods:</hi> And it will not be unworthy of a ſerious conſideration, that he was born, educated, lived, and died, under the ſame Form of Govern<g ref="char:EOLhyphen"/>ment; in all which time, there was not the le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt appearance in him of oppoſing it, nor a word ſpoken by him of his diſlike of it; and whatſoever he did, or ſpake, was the command, will and pleaſure of his Father <note n="*" place="margin">Joh. 16. 31. Joh. 6.38. Joh. 8.29.</note>.</p>
+               <p>Secondly, beſides his own practiſe in the time of his Pilgri<g ref="char:EOLhyphen"/>mage on earth, he told his Diſciples that after his departure, he would ſend them the ſpirit of truth from his Father, which ſhould guide them <hi>into all truth.</hi> (Mark that word, <hi>into all truth)</hi> which without all peradventure, was not only into the knowledge of Divine Myſteries, but alſo how to demean themſelves toward all men, and what Government they ſhould live under, and ſubmit unto. Now what that Government was that the Holy Ghoſt did adviſe and counſel them, yea, command them to ſub<g ref="char:EOLhyphen"/>mit unto, and pray for, theſe Scriptures following do ſhew, 1 <hi>Pet.</hi> 2.11, 12, 13, 14, 15, 16, 17. <hi>Dearly beloved, I beſeech you as Pilgrims and Strangers, that ye <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bſtain from fleſhly luſts, which war againſt the ſoul; having your converſation honeſt a<g ref="char:EOLhyphen"/>mong the Gentiles, that whereas they ſpeak againſt you as evil doers, they may by your good works, which they ſhall behold, glo<g ref="char:EOLhyphen"/>rifie God in the day of viſitation: Submit your ſelves to every ordinance of man for the Lords ſake, whether it be to the King as Supream, or unto Governors, as unto them that are ſent by him for the puniſhment of evil doers, and for the praiſe of them that do well; for ſo is the will of God, that with wel-doing, ye may put to ſilence the ignorance of fooliſh men; as free, and not uſing your liberty as a cloak of malitiouſneſs, but as the ſervants of God; eſteem all men, love the brotherhood, fear God, Honour the King.</hi> From theſe words of the Holy Ghoſt it is clear to me, that we may as well go ſeek us a new Goſpel for our ſouls; as a new Government for our bodies; but the Lord hath not left us to our own choice in either, except he intends to ruine and deſtroy us. O Lord, for thy Names ſake, Give not up thy ſervants in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to their own hearts l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, and ſuffer them not to walk in their own Counſels; for if thou leave them to themſelves, they
+<pb n="11" facs="tcp:168870:10"/> will ruine and deſtroy one another, and make themſelves a ſcorn and a laughing ſtock to all their Enemies. O give them hearts to hearken to thy word, and obey thy voice: Let the counſel of thy holy Spirit be ſeaſonably and timely acceptable to them, leſt they repent it when it is too late. The ſecond Scri<g ref="char:EOLhyphen"/>pture is, <hi>Rom.</hi> 13.1, 2. <hi>Let every ſoul be ſubject to the higher powers; for there is no power but of God; the powers that be are Ordained of GOD, whoſoever therefore re<g ref="char:EOLhyphen"/>reſiſteth the power, reſiſteth the Ordinance of God; and they that reſiſt, ſhall receive to themſelves damnation, &amp;c.</hi> Wherein the holy Ghoſt ſheweth, that the Government that was then eſtabliſht in the earth, was eſtabliſht by a decree and an Ordi<g ref="char:EOLhyphen"/>nance of God, and that thoſe did contract the guilt of ſin and judgement to themſelves that did gainſay or reſiſt it, becauſe they did reſiſt Gods Ordinance. The third Scripture is, 1 <hi>Tim.</hi> 2.1, 2. <hi>I exhort therefore, that firſt of all, ſupplications, prayers, interceſſions, and giving of thanks be made for all men; for kings, and for all that are in Authority, that we may lead a quiet and a peaceable life, in all godlineſs and honeſty.</hi> Wherein the Holy Ghoſt ſheweth Chriſtians, that it is not only their duty to ſub<g ref="char:EOLhyphen"/>mit unto that Government that by Gods Ordinance and De<g ref="char:EOLhyphen"/>cree was then eſtabliſht in the earth; but alſo to pray for the ſafety, welfare, and proſperity both of the ſoul and bodies of thoſe that were ſupream Perſons in the Government, as the fruits of godlineſs and honeſty.</p>
+               <p>As in Martial Diſcipline it is obſervable, that good and diſ<g ref="char:EOLhyphen"/>creet Souldiers obſerve their Leaders, and hearken to the word of Command; for want of which they fall into diſorder, and lay themſelves open to be ſpoiled of their enemies; ſo without doubt, it would be both wiſdom and diſcretion in Chriſtians, to obſerve the practiſe of thoſe that liv'd in the Primitive times of the Goſpel, that were the firſt Profeſſors of Chriſtian Religi<g ref="char:EOLhyphen"/>on, that lead the Van of Practical godlineſs, and to be followers of them, as they were of Chriſt; and this will lead to the third thing.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="12" facs="tcp:168870:11"/>
+               <head>CHAP. III. <hi>The Government of a KING is moſt Ancient.</hi>
+               </head>
+               <p>THat it is moſt Ancient, I think none are ſo ſottiſh as to de<g ref="char:EOLhyphen"/>ny it, and therefore there needs but little to be ſaid in it. Yet for ſatisfaction to ſome that are beating the Buſh to ſtart ſomething from the Form of a new government; this much I ſhall inſert, that <hi>Melchiſedec,</hi> who is recorded in the Scripture without Father, without Mother, without deſcent, having neither beginning of day, nor end of life, was conſtituted a King on Earth, and exerciſed a Kingly Power and Government over the faithfull Servants of God then living; to whom and to whoſe Government, even <hi>Abraham</hi> (whom the holy Ghoſt ſtiles the Father of the faithful) did moſt gladly ſubmit. This was the firſt Form of Government that the people of God, Gods cho<g ref="char:EOLhyphen"/>ſen people were ſubject to, and under which they firſt received a bleſſing. And whereas it is written that <hi>Melchiſedec</hi> was with<g ref="char:EOLhyphen"/>out beginning of days, or end of life: ſo alſo his Government (I mean a Kingly Government) had no beginning, and ſhall have no end, becauſe it came forth from, and was founded in the eter<g ref="char:EOLhyphen"/>nal God, and unto him ſhall return again, and have its center for ever in him. Alas, the Government of a Free-State (as ſome cail it) is a new thing (or there is no ſuch thing) having not one ſentence in the Book of God that teſtifies any ſuch thing (ex<g ref="char:EOLhyphen"/>cept <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> and the two hundred and fif<g ref="char:EOLhyphen"/>ty principal men of the Congregation, did intend to eſtabliſh ſuch a Government, when they told <hi>Moſes</hi> that he took too much upon him to liſt up himſelf above the Congregation of the Lord) and is therefore both invaluable, and inconſiderable to a Kingly Government, having nothing of the Image, or Superſcription of the King of Kings engraven upon it; nor ſo much as the ſhadow of Antiquity to countenance it.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="13" facs="tcp:168870:11"/>
+               <head>CHAP. IV. <hi>That the Government of a KING is moſt ſafe for the People.</hi>
+               </head>
+               <p>ANd as the Government of a ſingle perſon is moſt Ancient, ſo it carryeth moſt of the peoples ſafety with it: this alſo is clear from Scripture and Reaſon. <hi>Moſes</hi> the Servant of the Lord, from the tenderneſs of his heart to <hi>Iſraels</hi> ſafety, and fearing leaſt the late diſtemper of <hi>Corah</hi> and his Accomplices might be revived after his death to their utter ruine and deſtru<g ref="char:EOLhyphen"/>ction (after that the Lord had told him, that he ſhould not go into the Land of <hi>Canaan,</hi> but that he ſhould go up into <hi>Mount Nebo</hi> and die there) earneſtly prayed unto the Lord in theſe words, <hi>Let the Lord the God of the Spirits of all fleſh, ſet a man</hi> (not men) <hi>over the Congregation, which may go out before them, and which may go in before them: And which may lead them out<g ref="char:punc">▪</g> and which may bring them in; that the Congregation of the Lord be not as ſheep without a ſhepherd,</hi> Numb. 27. 16, 17. In this Scripture, the Holy Ghoſt ſhews theſe two things:</p>
+               <p>Firſt, <hi>Moſes</hi> his earneſt deſires for the Peoples ſafety.</p>
+               <p>Secondly, His Propoſition to God, of what he apprehended might be the moſt effectual mean for the people to attain it <hi>(Let the Lord ſet a man over the Congregation)</hi> and in the 3. <hi>verſes</hi> following, the Holy Ghoſt ſhews theſe things; Firſt, Gods ap<g ref="char:EOLhyphen"/>probation of <hi>Moſes</hi> his Propoſition: Secondly, his conſent and grant, of his charitable and loving Petition for the peoples ſafe<g ref="char:EOLhyphen"/>ty. And me thinks the Lord ſpeaks thus to him, <hi>Moſes</hi> I have read thy Petition, I finde it honeſt, juſt, and godly, and no way contradicting my mind and will: I have therefore granted thy requeſt, I have conſidered thy wiſdom in propounding ſuch an effectual means for the peoples ſafety, as the placing one Head Governor over them, and I approve of it, it likes me well, and it ſhall be done. Be it therefore enacted in Heaven by God the Father, God the Son, and God the Holy Ghoſt (three Perſons
+<pb n="14" facs="tcp:168870:12"/> and one God) that the government of a ſingle Perſon, be eſta<g ref="char:EOLhyphen"/>bliſht upon earth, as the moſt effectual means for the preſerva<g ref="char:EOLhyphen"/>tion, peace and ſafety of the people thereof, and that they be conformable and obedient to it: And whereas <hi>Joſhuah</hi> the ſon of <hi>Nun</hi> hath been hitherto faithfull, godly, and upright in all his ways, and was not conſenting to the ſeditious, and Govern<g ref="char:EOLhyphen"/>ment-deſpiſing principles of <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> and hath followed me fully in my Ordinances and commands, which I have given to <hi>Iſrael,</hi> he ſhall be the man that ſhall be their Chief governour, thus we may ſee what government was beſt pleaſing to God, and moſt ſuitable to his minde. <hi>Iſrael</hi> had a Judge by a heavenly Ordinance; and the Nations of the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> a King by an eternal unalterable decree.</p>
+               <q>
+                  <l>The Reign of Kings<g ref="char:punc">▪</g> to generation came,</l>
+                  <l>Judges being qualify'd receiv'd the ſame.</l>
+               </q>
+               <p>Secondly, The greateſt time of ſafety that God hath promi<g ref="char:EOLhyphen"/>ſed to his Church and People on Earth, in the great union of <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ws</hi> and <hi>Gentiles,</hi> will be in the time of a Kingly Government, and from thence ſhall they receive an abundance of indulgen<g ref="char:EOLhyphen"/>cy; for this is the word which the Lord hath ſpoken by the Prophet <hi>Iſaiah, Behold,</hi> I <hi>will lift up my hand to the Gentiles, and ſet up my ſtandard to the people, and they ſhall bring thy ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns in their arms, and thy daughters ſhall be carried on their ſhoulders, and kings ſhall be thy nurſing fathers, and their queens thy nurſing Mothers: they ſhall bow down to thee with their face toward the earth, and lick up the duſt of thy feet, and thou ſhalt know that I am the Lord; for they ſhall not be aſhamed that wait for me.</hi> In this Scripture, the Lord hath promiſed, that he wil ſo bring about and work ſuch a change upon the heart of Kings; that they ſhall be ſo far from being perſecutors of his Church or Exerciſers of Tyrannie over them; that they ſhall embrace them with the arms of love, and ſtoop to them with Congies of love, that they ſhall give the right hand of fellowſhip to them, and take ſweet counſel together in the houſe of God, that they ſhall be their chief and choiceſt friends, uſing their power for their protection, whereas formerly they have been great ene<g ref="char:EOLhyphen"/>mies
+<pb n="15" facs="tcp:168870:12"/> and deſtroyers thereof. Now if a Kingly Government ſhould be raced out and aboliſhed: How ſhall the Church of God have Kings for their nurſing Fathers, and Queens for their nurſing Mothers.</p>
+               <p>But beſides theſe Scriptures, reaſon it ſelf will tell us, that it is more ſafe for the people to enjoy a Government inveſted rather in one perſon then in a multitude of men; for a Nation may very fitly be compared to a private Family, conſiſting of many Servants; which can never be well ordered, wherein there are many Maſters: for, if according to the words of our Savi<g ref="char:EOLhyphen"/>our, no <hi>Servant can well ſerve two Maſters; for either he will hate the one, and love the other; or elſe he will hold to the one, and deſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſe the other:</hi> How then can he ſerve more then twice two hundred. Amongſt many there may be much diviſion, in one there can be but little, if any. In unity there is ſafety; in Di<g ref="char:EOLhyphen"/>viſion confuſion. This is not a bare conjecture, or a ſuppoſed thing, many late years ſad experience hath confirmed it for Truth. How prone men are to diviſion, we need not ask; and how bitter the fruit of it is, we have been made to know by ta<g ref="char:EOLhyphen"/>ſting the forbidden fruit: I mean by doing that in obedience to men, and their Ordinances which God hath expreſly forbidden in his word. A Ship muſt needs ſail in hazard and danger of being caſt away, that hath many Pilots of equal Authority at the Helm, let the Marriners handle their Ropes as skilfully as they can, and the wind blow never ſo fair: Nor is there any real like<g ref="char:EOLhyphen"/>lyhood, that a ſick perſon ſhould be in ſafety or recover health that hath a multitude of Phyſicians about his ſick bed. If <hi>Eng<g ref="char:EOLhyphen"/>land</hi> then would be healed of the Falling-ſickneſs, and Convul<g ref="char:EOLhyphen"/>ſion Fits of Diviſion: Let them apply to their ſtomacks the Leaf of a godly Chriſtianlike, Ancient Government, and they ſhall be healed, or elſe never.</p>
+            </div>
+            <closer>Probatum eſt.</closer>
+            <trailer>FINIS.</trailer>
+            <epigraph>
+               <q>
+                  <l>—Regúm eſt</l>
+                  <l>Parcere ſubjectis, &amp; debellare ſuperbos.</l>
+               </q>
+               <q>
+                  <p>Humanum eſt errare, ſed diabolicum aeſt perſeverare.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
